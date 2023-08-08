@@ -5,7 +5,7 @@
                 &nbsp;&nbsp;email: <strong>hallinto@rambler.ru</strong> 
                 &nbsp;&nbsp;web: <a href="https://abergan.ru">abergan.ru</a> 
             </p>
-            <p>Код этого микроприложения доступен можно посмотреть здесь: <a href="https://abergan.ru">abergan.ru</a></p>
+            <p>Код этого микроприложения доступен можно посмотреть здесь: <a href="https://github.com/santerkomarov/vue_test">https://github.com/santerkomarov/vue_test</a></p>
         </div>
         <h1>
             Тестовое задание
